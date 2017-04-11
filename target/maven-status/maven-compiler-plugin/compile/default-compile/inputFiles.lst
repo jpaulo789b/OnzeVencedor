@@ -1,0 +1,10 @@
+/home/aluno/Documentos/ed/Onze-vencedor/Onze-vencedor-master/src/main/java/br/com/ambientinformatica/onzevencedor/entity/Atleta.java
+/home/aluno/Documentos/ed/Onze-vencedor/Onze-vencedor-master/src/main/java/br/com/ambientinformatica/onzevencedor/entity/Posicao.java
+/home/aluno/Documentos/ed/Onze-vencedor/Onze-vencedor-master/src/main/java/br/com/ambientinformatica/onzevencedor/controller/ClubeBean.java
+/home/aluno/Documentos/ed/Onze-vencedor/Onze-vencedor-master/src/main/java/br/com/ambientinformatica/onzevencedor/service/AtletaService.java
+/home/aluno/Documentos/ed/Onze-vencedor/Onze-vencedor-master/src/main/java/br/com/ambientinformatica/onzevencedor/dao/ClubeDAO.java
+/home/aluno/Documentos/ed/Onze-vencedor/Onze-vencedor-master/src/main/java/br/com/ambientinformatica/onzevencedor/controller/BaseBean.java
+/home/aluno/Documentos/ed/Onze-vencedor/Onze-vencedor-master/src/main/java/br/com/ambientinformatica/onzevencedor/controller/AtletaBean.java
+/home/aluno/Documentos/ed/Onze-vencedor/Onze-vencedor-master/src/main/java/br/com/ambientinformatica/onzevencedor/dao/AtletaDAO.java
+/home/aluno/Documentos/ed/Onze-vencedor/Onze-vencedor-master/src/main/java/br/com/ambientinformatica/onzevencedor/service/ClubeService.java
+/home/aluno/Documentos/ed/Onze-vencedor/Onze-vencedor-master/src/main/java/br/com/ambientinformatica/onzevencedor/entity/Clube.java
