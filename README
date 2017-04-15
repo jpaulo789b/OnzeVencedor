@@ -1,4 +1,6 @@
 
+
+#Configuração do banco de dado para o Onze Vencedor
 create database OnzeVencedorDB;
 
 connect OnzeVencedorDB;
